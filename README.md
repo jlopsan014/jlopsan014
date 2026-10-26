@@ -36,6 +36,6 @@ Soy desarrollador en formación, centrado en crear aplicaciones web funcionales,
 
 ## Contacto
 
-- GitHub: [@TU_USUARIO](https://github.com/jlopsan014)
-- Email: TU_CORREO
-- LinkedIn: TU_PERFIL_LINKEDIN
+- GitHub: [@jlopsan014](https://github.com/jlopsan014)
+- Email: jlopsan014@gmail.com
+- LinkedIn: [Visita mi linkedin](www.linkedin.com/in/jaime-lópez-san-josé-708b73335)
